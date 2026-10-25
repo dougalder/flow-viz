@@ -1,5 +1,6 @@
 # FlowViz 🎵✨
 
+[Launch FlowViz app](https://dougalder.github.io/flow-viz/)
 A **music-reactive visual synthesizer** that creates stunning real-time animations synced to your audio. Choose from 33 dynamic visual styles, customize every parameter, and export high-quality videos.
 
 ![FlowViz Dark Mode](screenshots/02-dark-loaded.png)
